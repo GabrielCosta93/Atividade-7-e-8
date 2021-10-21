@@ -1,0 +1,22 @@
+h1 {
+    border-top: 2px solid #764e36;
+    border-bottom: 2px solid #764e36;
+    background-color: #fcfcfc;
+    color: #764e36;
+}
+
+h2 {
+    padding-left: 5px;
+    background-color: #764e36;
+    color: #fcfcfc;
+}
+
+img {
+    border: 2px solid #764e36;
+    padding: 10px;
+}
+
+html {
+    margin-left: 50px;
+    margin-right: 50px;
+}
